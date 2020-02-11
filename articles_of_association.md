@@ -33,8 +33,8 @@ month and facilitated by the Board.
 The general assembly meeting must be facilitated electronically to the members with at least 3 weeks' notice
 stating the agenda.
 
-The agenda of the General Assembly shall contain at least the following items:
-1. The Board of Directors' report is presented for debate and approval  
+The agenda of the General Assembly shall contain at least the following items:   
+1. The Board of Directors' report is presented for debate and approval
 2. The audited accounts are presented for debate and approval
 3. Vote of board members and accountant
 4. Determination of any annual fee per January 1st
