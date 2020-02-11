@@ -52,10 +52,10 @@ However, the chairman and treasurer must be 18.
 The Board of Directors is responsible for the operation of the association between the general meetings and is elected by members at the annual meeting.
 The chairman must have been a member for a minumum of one year.
 
-* The Board of Directors consists of minimum 4 members.
-- Chairman
-- Accountant
-- 2 supplements for the above mentioned roles
+The Board of Directors consists of minimum 4 members.
+* Chairman  
+* Accountant
+* 2 supplements for the above mentioned roles
 
 * Board members are elected for a two-year term, so that half of the Board of Directors members / supplements are up for election one year and the other half + 1 is up for election following year.
 
